@@ -40,7 +40,7 @@ Aqui estão algumas das tecnologias que eu trabalho atualmente:
 
 Aqui estão alguns dos projetos em que eu tenho trabalhado recentemente:
 
-- [Projeto 1](https://github.com/FelipeSoeiro/Word-Replacer.git): O Word Replacer é uma ferramenta simples para substituição de palavras ou frases em arquivos do Word (.docx). Com ele, você pode realizar a substituição em vários arquivos do Word de uma vez em um determinado diretório.
+- [Word-Replacer](https://github.com/FelipeSoeiro/Word-Replacer.git): O Word Replacer é uma ferramenta simples para substituição de palavras ou frases em arquivos do Word (.docx). Com ele, você pode realizar a substituição em vários arquivos do Word de uma vez em um determinado diretório.
 
 ## Contato
 
