@@ -35,7 +35,14 @@ Aqui estão algumas das tecnologias que eu trabalho atualmente:
     </td>
   </tr>
 </table>
+## Projetos
 
+Aqui estão alguns dos projetos em que eu tenho trabalhado recentemente:
+
+- [Projeto 1](link): uma breve descrição do projeto.
+- [Projeto 2](link): uma breve descrição do projeto.
+- [Projeto 3](link): uma breve descrição do projeto.
+- 
 ## Contato
 
 - 💬 Fique à vontade para me enviar uma mensagem se você quiser conversar sobre tecnologia ou se tiver alguma pergunta.
