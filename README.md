@@ -9,6 +9,12 @@ Sou um desenvolvedor que gosta de trabalhar com várias tecnologias, como HTML, 
 - 💼 Atualmente, trabalho como [Técnico Judiciário no Tribunal Regional do Trabalho da 6ª Região].
 - 🌱 Estou sempre aprendendo e experimentando novas tecnologias.
 
+
+## Linguagens mais usadas
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSoeiro&langs_count=10&theme=dark&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFF" alt="Linguagens mais usadas" />
+
+
 ## Tecnologias
 
 Aqui estão algumas das tecnologias que eu trabalho atualmente:
