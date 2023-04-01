@@ -44,6 +44,8 @@ Aqui estão algumas das tecnologias que eu trabalho atualmente:
 
 Aqui estão alguns dos projetos em que eu tenho trabalhado recentemente:
 
+- [Portfolio](https://github.com/FelipeSoeiro/Portfolio): Meu portfolio profissional, onde é possível me conhecer melhor e acompanhar meus projetos.
+
 - [Word-Replacer](https://github.com/FelipeSoeiro/Word-replacer): O Word Replacer é uma ferramenta simples para substituição de textos em arquivos do Word (.docx). Com ele, você pode realizar a substituição em vários arquivos do Word de uma vez em um determinado diretório.
 
 ## Contato
